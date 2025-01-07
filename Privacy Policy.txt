@@ -1,0 +1,103 @@
+Privacy Policy for AiCook
+
+Effective Date: 1/7/2025
+
+1. Introduction
+Welcome to AiCook! Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how AiCook ("we," "our," or "us") collects, uses, and safeguards your information when you use our app and services.
+
+By using AiCook, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+2. Information We Collect
+
+a. Personal Information:
+We may collect the following types of personal information when you use AiCook:
+
+Name
+
+Email address
+
+Account credentials (username and password)
+
+Payment details (if applicable)
+
+b. Usage Data:
+We collect data about how you interact with the app, including:
+
+Recipes you search for, save, or create
+
+Preferences, such as dietary restrictions and favorite cuisines
+
+Device information, including device type, operating system, and IP address
+
+c. Location Data:
+With your permission, we may collect your location data to provide location-specific recipes, grocery store suggestions, or regional cooking tips.
+
+d. Cookies and Tracking Technologies:
+We use cookies and similar tracking technologies to enhance your app experience. These technologies help us analyze user behavior and improve our services.
+
+3. How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+To personalize your experience by recommending recipes, tips, and meal plans.
+
+To manage your account and provide customer support.
+
+To improve and optimize our app functionality.
+
+To process payments and transactions securely (if applicable).
+
+To send you updates, newsletters, and promotional offers (you can opt-out at any time).
+
+To comply with legal obligations.
+
+4. How We Share Your Information
+
+We may share your information in the following circumstances:
+
+Service Providers: With third-party vendors who help us operate and improve our services.
+
+Legal Compliance: When required by law, regulation, or legal process.
+
+Business Transfers: In connection with a merger, sale, or transfer of assets.
+
+We do not sell your personal information to third parties.
+
+5. Data Retention
+
+We retain your personal information only as long as necessary to provide our services or as required by law. When no longer needed, we securely delete or anonymize your data.
+
+6. Data Security
+
+We implement robust security measures to protect your data. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+7. Your Privacy Rights
+
+Depending on your location, you may have the following rights:
+
+Access and review your personal information.
+
+Update or correct inaccuracies in your data.
+
+Request deletion of your personal information.
+
+Opt-out of certain data processing activities.
+
+To exercise these rights, contact us at [Insert Contact Email].
+
+8. Children's Privacy
+
+AiCook is not intended for individuals under the age of 13. We do not knowingly collect personal information from children. If you believe we have inadvertently collected such data, please contact us, and we will take steps to delete it.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy periodically. Any changes will be posted in the app and become effective on the date of posting. We encourage you to review this policy regularly.
+
+10. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+Email: leafy2077@gmail.com
+
+Thank you for trusting AiCook!
+
